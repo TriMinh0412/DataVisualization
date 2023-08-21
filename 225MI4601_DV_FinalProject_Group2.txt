@@ -1,0 +1,6 @@
+PDF: is our project document
+PPTX: is our presentation file
+Excel: Data file after ETL
+ETL file: .dtsx is SSIS file, please open with visual studio 2019 or 2022
+Dashboard: using power BI
+Link dashboard to watch online powerbi.com is at Appendix Section (Word), your PowerBi account need to use email that belongs to University of Economics and Law to access.
